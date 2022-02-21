@@ -1,1 +1,0 @@
-/home/simulations/ros2_sims_ws/src/ros1_bridge/resource/get_factory.cpp.em
