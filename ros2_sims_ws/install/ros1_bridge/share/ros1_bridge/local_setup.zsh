@@ -1,0 +1,1 @@
+/home/simulations/ros2_sims_ws/build/ros1_bridge/ament_cmake_environment_hooks/local_setup.zsh
